@@ -15,7 +15,6 @@ from keras_facenet import FaceNet
 # ----------------------------
 # Configuration
 # ----------------------------
-FACENET_MODEL_PATH = "facenet_keras.h5"     # put your facenet_keras.h5 here
 EMBEDDINGS_DB_PATH = "face_db.pkl"
 CLASSIFIER_PATH = "svm_classifier.pkl"
 
